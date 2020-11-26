@@ -2,7 +2,7 @@
 
 # Project Title
 
-Final project for the Building AI course – Predicting Kuntavaalit 20201
+Final project for the Building AI course – Predicting Kuntavaalit 2021
 
 ## Summary
 
