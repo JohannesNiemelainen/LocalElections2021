@@ -2,7 +2,7 @@
 
 # Project Title
 
-Final project for the Building AI course – Predicting Kuntavaalit 2021
+Predicting Local Elections (Kuntavaalit) 2021 - Final project for the Building AI course.
 
 ## Summary
 
