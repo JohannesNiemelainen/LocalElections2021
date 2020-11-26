@@ -6,7 +6,7 @@ Final project for the Building AI course – Predicting Kuntavaalit 2021
 
 ## Summary
 
-The aim of the project is to predict Finnish local elections (kuntavaalit) in April 2021 without polling data. Kuntavaalit is actually not a single election, rather ~300 elections in Finland. I will use both KNN and linear regression to compare the accuracy of different methods. 
+The aim of the project is to predict Finnish local elections (kuntavaalit) in April 2021 without polling data. Kuntavaalit is actually not a single election, rather ~300 elections in Finland.
 
 
 ## Background
